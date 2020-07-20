@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: javaapplication1.MyFrame
+Class-Path: lib/java-mail-1.4.4.jar

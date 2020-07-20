@@ -24,9 +24,9 @@ import javax.mail.internet.MimeMultipart;
 
 public class EmailSender {
 
-    private static String USER_NAME = "teluguwadu001@gmail.com"; // GMail user name (just the part before
+    private static String USER_NAME = "senderEmail@gmail.com"; // GMail user name (just the part before
     // "@gmail.com")
-    private static String PASSWORD = "05071A1023"; // GMail password
+    private static String PASSWORD = "senderPassword"; // GMail password
     private List<String> recipents;
     private String subject;
     private String body;

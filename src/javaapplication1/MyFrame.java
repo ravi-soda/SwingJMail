@@ -89,7 +89,7 @@ public class MyFrame extends javax.swing.JFrame {
             }
         });
 
-        jLabel1.setText("raviprasad38@gmail.com");
+        jLabel1.setText("ijk@gmail.com");
 
         javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
         jPanel4.setLayout(jPanel4Layout);
